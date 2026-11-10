@@ -1,7 +1,6 @@
-NTM Space Extended: New Direction — это форк, призванный повторить оригинальный стиль мода и внести в игру множество разнообразного контента в самых разных направлениях:
-  реалистичность, химия, космос, еда, машины, ресурсы, шутки, пасхалки и многое другое.
+NTM Space Extended: New Direction is a fork designed to replicate the original style of the mod while introducing a wide variety of content across many different areas—including realism, chemistry, space, food, machinery, resources, jokes, Easter eggs, and much more.
 
-  Внимание: форк создан исключительно для развлечения и выражения идей автора.
+Please note: This fork was created solely for entertainment purposes and to express the author's ideas.
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
